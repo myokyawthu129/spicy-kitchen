@@ -1,6 +1,5 @@
 # spicy-kitchen
-Training
-first of all 
+
 git clone https://github.com/myokyawthu129/spicy-kitchen.git
 and then
 
