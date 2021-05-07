@@ -18,6 +18,7 @@ and then
 clone ပြီးရင် သွားရတဲ့ steလောလော ဆယ် ဒီ step အတိုင်းသွားပီရေးရင်ရပြီ
 git clone https://
 git checkout your_branch
+git pull origin main
 write your code and codeရေး ပြီးမှအောက်က step ကို သွားရမှနော်
 git status
 git add .
