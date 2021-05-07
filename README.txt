@@ -13,3 +13,20 @@ and then
  ///Htet Inzali and write your code
  
 
+git clone https://
+git checkout your_branch
+write your code and
+git status
+git add .
+git commit -m "your commit"
+git push -u origin your_branch
+git pull origin development
+
+git status (check your branch) if not your branch change =>git checkout your_branch
+git pull origin main
+write your code
+git status
+git add .
+git commit -m "your commit"
+git push -u origin your_branch
+git pull origin developement
