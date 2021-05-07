@@ -12,19 +12,20 @@ and then
  git checkout gift 
  ///Htet Inzali and write your code
  
-
+clone ပြီးရင် သွားရတဲ့ stepလေလော ဆယ် ဒီ step အတိုင်းသွားပီရေးရင်ရပြီ
 git clone https://
 git checkout your_branch
-write your code and
+write your code and codeရေး ပြီးမှအောက်က step ကို သွားရမှနော်
 git status
 git add .
 git commit -m "your commit"
 git push -u origin your_branch
 git pull origin development
 
+ဒါက မလိုသေးဘူးနောက် မှ
 git status (check your branch) if not your branch change =>git checkout your_branch
 git pull origin main
-write your code
+write your code codeရေး ပြီးမှအောက်က step ကို သွားရမှနော်
 git status
 git add .
 git commit -m "your commit"
