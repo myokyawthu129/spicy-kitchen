@@ -1,5 +1,7 @@
 # spicy-kitchen
 
+ကို့ branch ကို change pမှရေပေနော်
+
 git clone https://github.com/myokyawthu129/spicy-kitchen.git
 and then
 
@@ -31,3 +33,5 @@ git add .
 git commit -m "your commit"
 git push -u origin your_branch
 git pull origin developement
+
+#remark codeရေးပီးရင် gitပေါ် မတင်ခင် ကိုရေးထားတာကို zipလေး ချုပ်ပီး သိမ်းထာပေးပါ။
