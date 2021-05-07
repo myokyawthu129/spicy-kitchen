@@ -1,4 +1,5 @@
 # spicy-kitchen
+#remark codeရေးပီးရင် gitပေါ် မတင်ခင် ကိုရေးထားတာကို zipလေး ချုပ်ပီး သိမ်းထာပေးပါ။
 
 ကို့ branch ကို change pမှရေပေနော်
 
@@ -34,4 +35,3 @@ git commit -m "your commit"
 git push -u origin your_branch
 git pull origin developement
 
-#remark codeရေးပီးရင် gitပေါ် မတင်ခင် ကိုရေးထားတာကို zipလေး ချုပ်ပီး သိမ်းထာပေးပါ။
