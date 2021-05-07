@@ -1,7 +1,7 @@
 # spicy-kitchen
 # remark codeရေးပီးရင် gitပေါ် မတင်ခင် ကိုယ်ရေးထားတာကို zipလေး ချုပ်ပီး သိမ်းထာပေးပါ။
 
-ကို့ branch ကို change pမှရေပေနော်
+ကို့ branch ကို change pမှရေးပေးနော်
 
 git clone https://github.com/myokyawthu129/spicy-kitchen.git
 and then
